@@ -1,0 +1,16 @@
+dash==2.14.2
+plotly==5.18.0
+pandas==2.1.4
+geopandas==0.14.1
+numpy==1.26.2
+gunicorn==21.2.0
+matplotlib==3.8.2
+shapely==2.0.2
+pyproj==3.6.1
+contextily==1.4.0
+rtree==1.1.0
+fiona==1.9.5 
+timezonefinder==6.5.8
+pvlib==0.10.4
+ipykernel==6.29.5
+jupyterlab==4.3.4
